@@ -1,0 +1,8 @@
+{
+  "name": "ClipGenius AI",
+  "description": "AI-powered video shortener that extracts viral highlights and generates cross-platform metadata for YouTube and TikTok.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
